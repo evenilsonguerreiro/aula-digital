@@ -1,0 +1,17 @@
+.nav-ficxo{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background: linear-gradient(to right, #10ac84, #1dd1a1);
+    
+}
+.bg-gradient{
+    background: linear-gradient(to right, #10ac84, #1dd1a1);
+}
+
+.footer-fixed{
+    position: static;
+    
+    
+}
